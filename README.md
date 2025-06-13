@@ -1,1 +1,2 @@
-# Charity-Water-Landing-Page-Website
+# My first website
+This project is a landing page for charity: water.
